@@ -3,7 +3,7 @@ package Class27;
 // Checking if a binary tree is height balanced in Java
 
 // Node creation
-class Node {
+/*class Node {
 
     int data;
     Node left, right;
@@ -49,7 +49,7 @@ class BinaryTree {
     public static void main(String args[]) {
         Height height = new Height();
 
-        BinaryTree tree = new BinaryTree();
+        BinaryTreeSearch tree = new BinaryTreeSearch();
         tree.root = new Node(1);
         tree.root.left = new Node(2);
         tree.root.right = new Node(3);
@@ -61,4 +61,4 @@ class BinaryTree {
         else
             System.out.println("The tree is not balanced");
     }
-}
+}*/
