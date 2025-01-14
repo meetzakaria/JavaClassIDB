@@ -1,4 +1,4 @@
-package ClassLectures.TenthClass;
+/*package ClassLectures.TenthClass;
 
 import ClassLectures.TenthClass.interfaceTest.VehicleInterface;
 
@@ -44,3 +44,4 @@ public class TestExtends {
         System.out.println(b1);
     }
 }
+*/
