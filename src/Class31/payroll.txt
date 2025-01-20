@@ -1,0 +1,3 @@
+ID: 1, Name: Jhon Doe, Salary: 50000.0, Tax: 10000.0
+ID: 2, Name: Jane Smith, Salary: 25.0, Tax: 2.5
+ID: 3, Name: David lee, Salary: 100000.0, Tax: 15000.0
